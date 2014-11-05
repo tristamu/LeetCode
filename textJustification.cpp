@@ -1,10 +1,9 @@
 /*************************************************************************
 	> File Name: textJustification.cpp
 	> Author: Haoming Wang
-	> Mail:
+	> Mail: haoming.exe@gmail.com
 	> Created Time: Tue 04 Nov 2014 01:49:38 AM CET
-
-Problem: https://oj.leetcode.com/problems/text-justification/
+	> url: https://oj.leetcode.com/problems/text-justification/
  ************************************************************************/
 
 #include<iostream>
