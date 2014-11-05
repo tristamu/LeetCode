@@ -1,6 +1,6 @@
 /*************************************************************************
 	> File Name: reverseWords.cpp
-	> Author:
+	> Author: Haoming Wang
 	> Mail:
 	> Created Time: Wed 05 Nov 2014 02:24:41 AM CET
 > url: 	https://oj.leetcode.com/problems/reverse-words-in-a-string/

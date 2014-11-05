@@ -1,6 +1,6 @@
 /*************************************************************************
 	> File Name: textJustification.cpp
-	> Author:
+	> Author: Haoming Wang
 	> Mail:
 	> Created Time: Tue 04 Nov 2014 01:49:38 AM CET
 

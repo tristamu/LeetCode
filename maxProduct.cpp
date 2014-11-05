@@ -3,10 +3,8 @@
 	> Author: Haoming Wang
 	> Mail:
 	> Created Time: Tue 04 Nov 2014 11:24:58 PM CET
-
- ************************************************************************/
-/*************************************************************************
-url: https://oj.leetcode.com/problems/maximum-product-subarray/
+        > url: https://oj.leetcode.com/problems/maximum-product-subarray/
+*************************************************************************
 My thoughts:
 we have to consider the sign. so if product is negative, we have odd number of negatives; then the max product is the bigger of:
 
@@ -16,6 +14,7 @@ b) product of all excluding elements on the right, up to the last negative eleme
 
 so the solution is calculate product, first from left to right, then from right to left; during the process we are guaranteed to encounter the max product; and whenever 0 is encountered, reset product to 1 and continue.
 ps: odd negtive numbers can be considered as 1
+
  ************************************************************************/
 
 #include<iostream>
