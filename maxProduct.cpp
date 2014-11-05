@@ -4,6 +4,7 @@
   > Mail:
   > Created Time: Tue 04 Nov 2014 11:24:58 PM CET
   > url: https://oj.leetcode.com/problems/maximum-product-subarray/
+
 Description:
 Find the contiguous subarray within an array (containing at least one number) which has the largest product.
 

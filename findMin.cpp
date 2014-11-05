@@ -3,15 +3,16 @@
   > Author: Haoming Wang
   > Mail: haoming.exe@gmail.com
   > Created Time: Wed 05 Nov 2014 05:38:39 PM CET
-url: https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+  > url: https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+
 Description:
-    Suppose a sorted array is rotated at some pivot unknown to you beforehand.
+Suppose a sorted array is rotated at some pivot unknown to you beforehand.
 
-    (i.e., 0 1 2 4 5 6 7 might become 4 5 6 7 0 1 2).
+(i.e., 0 1 2 4 5 6 7 might become 4 5 6 7 0 1 2).
 
-    Find the minimum element.
+Find the minimum element.
 
-    The array may contain duplicates.
+The array may contain duplicates.
  ************************************************************************/
 
 #include<iostream>
