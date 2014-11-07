@@ -4,6 +4,7 @@
   > Mail: haoming.exe@gmail.com
   > Created Time: Wed 05 Nov 2014 02:47:25 AM CET
   > url: https://oj.leetcode.com/problems/string-to-integer-atoi/
+
 Description:
 Implement atoi to convert a string to an integer.
  ************************************************************************/
